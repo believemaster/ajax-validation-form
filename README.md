@@ -1,3 +1,6 @@
+# Deployed at :
+https://believemaster.github.io/ajaxvalidation.github.io/
+
 # Ajax-Validation
 This is validation form test app using ajax. A simple validation form and which can be used in your projects and is easy to understand.
 This is done to learn the ajax validation techniques used in google and other forms for validating user and other contents in the forms.
